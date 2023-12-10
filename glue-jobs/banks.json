@@ -1,0 +1,902 @@
+[
+    {
+        "id": 4403,
+        "uid": "55ca603b-3a55-4fb6-ba27-40feb382edff",
+        "account_number": "5069774638",
+        "iban": "GB48JKZS69944274583784",
+        "bank_name": "ALLIED BANK PHILIPPINES (UK) PLC",
+        "routing_number": "673225665",
+        "swift_bic": "BARBGB2LHAR"
+    },
+    {
+        "id": 9870,
+        "uid": "2dbe5a67-ae43-4c96-8781-1d5c0668ad65",
+        "account_number": "7817634472",
+        "iban": "GB07ETJZ65970388850411",
+        "bank_name": "ABINGWORTH MANAGEMENT LIMITED",
+        "routing_number": "303359979",
+        "swift_bic": "ABBYGB2L"
+    },
+    {
+        "id": 8003,
+        "uid": "d25332f2-5885-4987-b990-c96c06a6dcea",
+        "account_number": "3559463882",
+        "iban": "GB21GJCQ34312397257312",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND PLC (FORMER RBS NV)",
+        "routing_number": "688425913",
+        "swift_bic": "BARBGB2LLEI"
+    },
+    {
+        "id": 9974,
+        "uid": "1cdd6227-36fd-45e2-a6ab-89e9cee9f32f",
+        "account_number": "2165638551",
+        "iban": "GB30EXNZ58881948861123",
+        "bank_name": "AAC CAPITAL PARTNERS LIMITED",
+        "routing_number": "002459332",
+        "swift_bic": "BCYPGB2LBBB"
+    },
+    {
+        "id": 4081,
+        "uid": "6038512d-6185-476b-8d6a-bb4a556ece0b",
+        "account_number": "5843165472",
+        "iban": "GB41YMGL25524604115583",
+        "bank_name": "ABU DHABI ISLAMIC BANK",
+        "routing_number": "294047400",
+        "swift_bic": "ABNAGB21VOC"
+    },
+    {
+        "id": 7127,
+        "uid": "4ccbae7d-2906-4732-998b-e243905261ef",
+        "account_number": "7854310505",
+        "iban": "GB18KQLI02225630375252",
+        "bank_name": "SANTANDER UK PLC",
+        "routing_number": "242969103",
+        "swift_bic": "BSCHGB2LEQU"
+    },
+    {
+        "id": 6903,
+        "uid": "05e45ee5-45eb-4c93-aea9-2c9f1c25db2a",
+        "account_number": "8078091123",
+        "iban": "GB76WTEV33581248162375",
+        "bank_name": "SANTANDER UK PLC",
+        "routing_number": "119223341",
+        "swift_bic": "ABCEGB2L"
+    },
+    {
+        "id": 6322,
+        "uid": "5f15605e-ef3d-4cc7-80bc-4567dda364fe",
+        "account_number": "6435707392",
+        "iban": "GB50FXQE22965507938331",
+        "bank_name": "ABN AMRO HOARE GOVETT SECURITIES",
+        "routing_number": "079327659",
+        "swift_bic": "ABAZGB21"
+    },
+    {
+        "id": 4984,
+        "uid": "29a553f1-7665-4302-87b7-145e65368581",
+        "account_number": "0635274362",
+        "iban": "GB14EYKY49064250146215",
+        "bank_name": "ABG SUNDAL COLLIER LIMITED",
+        "routing_number": "046354891",
+        "swift_bic": "BCYPGB2LSSB"
+    },
+    {
+        "id": 8879,
+        "uid": "1d659858-d878-4dcf-a83c-71ca1ac1f838",
+        "account_number": "1761961661",
+        "iban": "GB31MMKG27447789499463",
+        "bank_name": "AAC CAPITAL PARTNERS LIMITED",
+        "routing_number": "310259101",
+        "swift_bic": "MORLGB2LSMK"
+    },
+    {
+        "id": 6300,
+        "uid": "f699e958-da91-41c6-87e8-ef686adad0c4",
+        "account_number": "4015172241",
+        "iban": "GB72QZMC00213822806091",
+        "bank_name": "ALLIED BANK PHILIPPINES (UK) PLC",
+        "routing_number": "245141795",
+        "swift_bic": "BCYPGB2LPGB"
+    },
+    {
+        "id": 4357,
+        "uid": "563cdef8-9818-4e92-aeea-5fd1339a9afa",
+        "account_number": "0977704997",
+        "iban": "GB13ESPT91731859669362",
+        "bank_name": "ABN AMRO QUOTED INVESTMENTS (UK) LIMITED",
+        "routing_number": "324452745",
+        "swift_bic": "BOFAGB22SCP"
+    },
+    {
+        "id": 6294,
+        "uid": "761a162b-0d7b-4069-bb42-437806374720",
+        "account_number": "9899366894",
+        "iban": "GB68IOVP61184888726391",
+        "bank_name": "ABINGWORTH MANAGEMENT LIMITED",
+        "routing_number": "308786712",
+        "swift_bic": "UBKLGB2LXXX"
+    },
+    {
+        "id": 6449,
+        "uid": "333379fe-3205-4ba2-8820-c947a2c5fe8a",
+        "account_number": "8630739609",
+        "iban": "GB16UPCW32935023007282",
+        "bank_name": "ABN AMRO CORPORATE FINANCE LIMITED",
+        "routing_number": "104907229",
+        "swift_bic": "UBKLGB2LBAK"
+    },
+    {
+        "id": 578,
+        "uid": "6533defb-4025-41df-81f2-59e6d9cf8f8f",
+        "account_number": "0102713631",
+        "iban": "GB46FYBV94199453833429",
+        "bank_name": "ABINGWORTH MANAGEMENT LIMITED",
+        "routing_number": "697860679",
+        "swift_bic": "ABECGB21"
+    },
+    {
+        "id": 7308,
+        "uid": "a6c93ff4-5569-4a88-8189-dc896d0817f2",
+        "account_number": "3168713300",
+        "iban": "GB01RRVX86486534267031",
+        "bank_name": "ABN AMRO FUND MANAGERS LIMITED",
+        "routing_number": "659033473",
+        "swift_bic": "BOFAGB4TIPA"
+    },
+    {
+        "id": 8985,
+        "uid": "d2bd88b5-1a48-4d83-a857-96a189acecaa",
+        "account_number": "9502524733",
+        "iban": "GB66KZRD01592752217399",
+        "bank_name": "SANTANDER UK PLC",
+        "routing_number": "315490842",
+        "swift_bic": "ABCMGB21"
+    },
+    {
+        "id": 7289,
+        "uid": "fea8a4be-b8dd-472a-ba14-9f39e9607ae2",
+        "account_number": "4656088702",
+        "iban": "GB83WJAK32201295355606",
+        "bank_name": "ALKEN ASSET MANAGEMENT",
+        "routing_number": "009891841",
+        "swift_bic": "BOFAGB22SCP"
+    },
+    {
+        "id": 7018,
+        "uid": "a75c8404-a041-44c4-842c-b6b1957cabd6",
+        "account_number": "2153042547",
+        "iban": "GB65DRVG56665996892591",
+        "bank_name": "ABN AMRO FUND MANAGERS LIMITED",
+        "routing_number": "017191410",
+        "swift_bic": "AAPEGB21"
+    },
+    {
+        "id": 4001,
+        "uid": "c196663b-cfb7-46d6-9846-caa24ec3db0d",
+        "account_number": "0386967338",
+        "iban": "GB01OOSA76608290763264",
+        "bank_name": "ABN AMRO HOARE GOVETT CORPORATE FINANCE LTD.",
+        "routing_number": "258661411",
+        "swift_bic": "AKBKGB22XXX"
+    },
+    {
+        "id": 8509,
+        "uid": "2c2644b5-d398-4202-9bbb-3133d22fe81e",
+        "account_number": "6382517996",
+        "iban": "GB34IJDL29507529628013",
+        "bank_name": "ABN AMRO QUOTED INVESTMENTS (UK) LIMITED",
+        "routing_number": "265328624",
+        "swift_bic": "BOFAGB3SSWI"
+    },
+    {
+        "id": 5379,
+        "uid": "0749a123-eaf6-4cac-a9f6-75a1e58680e2",
+        "account_number": "7572776859",
+        "iban": "GB91YRAI58117412541675",
+        "bank_name": "ABN AMRO MEZZANINE (UK) LIMITED",
+        "routing_number": "289536104",
+        "swift_bic": "BOFAGB3SSWI"
+    },
+    {
+        "id": 2357,
+        "uid": "cdd11b21-7a9f-4d03-afb9-5f37e349b872",
+        "account_number": "2760128368",
+        "iban": "GB69LLKX03305531513750",
+        "bank_name": "ALKEN ASSET MANAGEMENT",
+        "routing_number": "224261094",
+        "swift_bic": "ABAZGB21"
+    },
+    {
+        "id": 4563,
+        "uid": "7642ea9f-4ae0-4439-af0a-1fe345295eb8",
+        "account_number": "1440168444",
+        "iban": "GB62EETK38059847964079",
+        "bank_name": "ABBEY LIFE",
+        "routing_number": "262158253",
+        "swift_bic": "BOFAGB4TIPA"
+    },
+    {
+        "id": 4786,
+        "uid": "668c86e4-dfdb-446e-bb50-de7439c29d1f",
+        "account_number": "5705884694",
+        "iban": "GB41SZRJ58575117733116",
+        "bank_name": "ABU DHABI ISLAMIC BANK",
+        "routing_number": "263993284",
+        "swift_bic": "AAHVGB21"
+    },
+    {
+        "id": 6210,
+        "uid": "136137e0-940a-4727-8bfc-034006a2b51d",
+        "account_number": "1110915989",
+        "iban": "GB95YAVH77396739242175",
+        "bank_name": "ABN AMRO HOARE GOVETT LIMITED",
+        "routing_number": "702484704",
+        "swift_bic": "AAHVGB21"
+    },
+    {
+        "id": 9961,
+        "uid": "964c7a3a-74aa-47d4-93d3-0cf344350670",
+        "account_number": "3857841409",
+        "iban": "GB92TAEY57760066376806",
+        "bank_name": "AAC CAPITAL PARTNERS LIMITED",
+        "routing_number": "073431460",
+        "swift_bic": "BOFAGB4TLFS"
+    },
+    {
+        "id": 3328,
+        "uid": "77c786f7-345c-49ea-9416-d58882a29ee7",
+        "account_number": "5652781143",
+        "iban": "GB80MTAX95086547963165",
+        "bank_name": "ABN AMRO FUND MANAGERS LIMITED",
+        "routing_number": "120861556",
+        "swift_bic": "BOFAGB3SSWI"
+    },
+    {
+        "id": 5266,
+        "uid": "9391ec78-e60e-4720-8bce-206591653e9b",
+        "account_number": "3146430339",
+        "iban": "GB91LBMY87950743676310",
+        "bank_name": "ABBEY LIFE",
+        "routing_number": "012729706",
+        "swift_bic": "BCYPGB2LBBB"
+    },
+    {
+        "id": 7886,
+        "uid": "b6f05897-c7ea-4c98-804d-0032fe1038b1",
+        "account_number": "7239048562",
+        "iban": "GB17GVUD84856359575710",
+        "bank_name": "ABN AMRO MEZZANINE (UK) LIMITED",
+        "routing_number": "693791276",
+        "swift_bic": "BOFAGB22OF2"
+    },
+    {
+        "id": 8495,
+        "uid": "34a80795-c90f-4572-b73a-7a13525b72a3",
+        "account_number": "1447802484",
+        "iban": "GB70RJMH79587273687515",
+        "bank_name": "ABG SUNDAL COLLIER LIMITED",
+        "routing_number": "646170828",
+        "swift_bic": "UBKLGB2LXXX"
+    },
+    {
+        "id": 2812,
+        "uid": "edd19e40-7d4a-43f6-b302-1eabf53db7e8",
+        "account_number": "6729317896",
+        "iban": "GB86KBZK27514248831467",
+        "bank_name": "AAC CAPITAL PARTNERS LIMITED",
+        "routing_number": "245125575",
+        "swift_bic": "ALEIGB22TSY"
+    },
+    {
+        "id": 2387,
+        "uid": "05d70116-9466-4381-afea-a32ff418fa89",
+        "account_number": "1272743926",
+        "iban": "GB22SQJJ02626413078705",
+        "bank_name": "ABU DHABI ISLAMIC BANK",
+        "routing_number": "688742298",
+        "swift_bic": "AACCGB21"
+    },
+    {
+        "id": 3103,
+        "uid": "0bcdccb1-f549-498d-a270-022000299fb0",
+        "account_number": "2527386475",
+        "iban": "GB29KHLI39362293001213",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND PLC (FORMER RBS NV)",
+        "routing_number": "302871584",
+        "swift_bic": "AAHVGB21"
+    },
+    {
+        "id": 5806,
+        "uid": "0c021a8a-a826-415d-9faa-95f108873292",
+        "account_number": "8973923017",
+        "iban": "GB50CYCT81911488952580",
+        "bank_name": "ABN AMRO HOARE GOVETT CORPORATE FINANCE LTD.",
+        "routing_number": "680241098",
+        "swift_bic": "BSCHGB2LEQU"
+    },
+    {
+        "id": 2688,
+        "uid": "55bf29db-b6c0-4835-8f00-73e4f5a78a67",
+        "account_number": "3646689737",
+        "iban": "GB09WWRK28572359792896",
+        "bank_name": "ALKEN ASSET MANAGEMENT",
+        "routing_number": "313006762",
+        "swift_bic": "ANTSGB2LCHA"
+    },
+    {
+        "id": 2400,
+        "uid": "ac74633e-224c-49ee-b5e3-a4dbf65e1ea1",
+        "account_number": "6309911933",
+        "iban": "GB67IZMP25962311736509",
+        "bank_name": "ABBOTSTONE AGRICULTURAL PROPERTY UNIT TRUST",
+        "routing_number": "693684820",
+        "swift_bic": "BARBGB2LKEN"
+    },
+    {
+        "id": 2646,
+        "uid": "d5d0b1b1-60c3-48d2-ab3b-bedf97b28f72",
+        "account_number": "8473102142",
+        "iban": "GB81ATQO95786359626721",
+        "bank_name": "ALKEN ASSET MANAGEMENT",
+        "routing_number": "322466238",
+        "swift_bic": "BCYPGB2LHHB"
+    },
+    {
+        "id": 6316,
+        "uid": "c9ebd4a0-58de-44ad-9cc9-d4157343fc72",
+        "account_number": "9345421063",
+        "iban": "GB92IOEY65150282023047",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND PLC (FORMER RBS NV)",
+        "routing_number": "296520514",
+        "swift_bic": "MORLGB2LSMK"
+    },
+    {
+        "id": 2231,
+        "uid": "3e263b7e-88e1-4ee0-b4fd-b98038056014",
+        "account_number": "0610980856",
+        "iban": "GB48VRQI93390438108089",
+        "bank_name": "ABN AMRO HOARE GOVETT SECURITIES",
+        "routing_number": "273708210",
+        "swift_bic": "ABCMGB21"
+    },
+    {
+        "id": 4660,
+        "uid": "fe39770b-a737-42c7-a2d8-b2c5baf1ea13",
+        "account_number": "2919694156",
+        "iban": "GB58XTOD36428386023636",
+        "bank_name": "AAC CAPITAL PARTNERS LIMITED",
+        "routing_number": "016547719",
+        "swift_bic": "AAQIGB21"
+    },
+    {
+        "id": 3751,
+        "uid": "8251fc4e-5f3e-4e88-a1f8-d018cc591712",
+        "account_number": "2127574125",
+        "iban": "GB91NBTQ85633871124565",
+        "bank_name": "ABINGWORTH MANAGEMENT LIMITED",
+        "routing_number": "032749847",
+        "swift_bic": "BCYPGB2LXXX"
+    },
+    {
+        "id": 9519,
+        "uid": "30dfdb2a-d04a-4a3e-acc3-eb2360ce58d7",
+        "account_number": "7266426060",
+        "iban": "GB87EJJC24906535006952",
+        "bank_name": "ABN AMRO FUND MANAGERS LIMITED",
+        "routing_number": "022495282",
+        "swift_bic": "AAHVGB21"
+    },
+    {
+        "id": 6866,
+        "uid": "5a3423aa-021b-4a56-ac4a-08902d0e5389",
+        "account_number": "0390217376",
+        "iban": "GB23ILST88798498092133",
+        "bank_name": "ABN AMRO MEZZANINE (UK) LIMITED",
+        "routing_number": "041884858",
+        "swift_bic": "BOFAGB22OF2"
+    },
+    {
+        "id": 7916,
+        "uid": "941cc4a2-48ae-458a-8432-1d3b43270b7e",
+        "account_number": "2456140321",
+        "iban": "GB53CJDB18467254677647",
+        "bank_name": "ABN AMRO FUND MANAGERS LIMITED",
+        "routing_number": "699645850",
+        "swift_bic": "BCYPGB2LHHB"
+    },
+    {
+        "id": 4844,
+        "uid": "4207f924-ae24-4e08-aa81-fe9ec100ebaa",
+        "account_number": "2817142359",
+        "iban": "GB91QOBZ33596171388601",
+        "bank_name": "UBS CLEARING AND EXECUTION SERVICES LIMITED",
+        "routing_number": "658537763",
+        "swift_bic": "BOFAGB4TIPA"
+    },
+    {
+        "id": 3490,
+        "uid": "64e8702d-4251-4961-a9e4-5472c517ff9e",
+        "account_number": "7363142997",
+        "iban": "GB79DRHR06351248940255",
+        "bank_name": "ALKEN ASSET MANAGEMENT",
+        "routing_number": "242693806",
+        "swift_bic": "AIBKGB2XTSY"
+    },
+    {
+        "id": 6919,
+        "uid": "cfef5a3e-e64c-45fd-b94c-2dc6a6bde69b",
+        "account_number": "6801394052",
+        "iban": "GB82CSFX14428408006400",
+        "bank_name": "ABC INTERNATIONAL BANK PLC",
+        "routing_number": "614627358",
+        "swift_bic": "ABBEGB21"
+    },
+    {
+        "id": 6899,
+        "uid": "8de79843-3f5f-474f-bb25-1f1266d951fd",
+        "account_number": "5661905270",
+        "iban": "GB25MOVJ72246225452113",
+        "bank_name": "ABN AMRO MEZZANINE (UK) LIMITED",
+        "routing_number": "037952464",
+        "swift_bic": "BSCHGB2LEQU"
+    },
+    {
+        "id": 9323,
+        "uid": "bb7b5114-0c0b-4c16-b31f-815df8887722",
+        "account_number": "1125354920",
+        "iban": "GB58YCZE46535851972216",
+        "bank_name": "ABBOTSTONE AGRICULTURAL PROPERTY UNIT TRUST",
+        "routing_number": "227881604",
+        "swift_bic": "AKBKGB22XXX"
+    },
+    {
+        "id": 6243,
+        "uid": "225a422e-1ae9-425d-ae7f-e93426dbf61f",
+        "account_number": "9641717192",
+        "iban": "GB39EBCN92042955314500",
+        "bank_name": "ABN AMRO MEZZANINE (UK) LIMITED",
+        "routing_number": "045420991",
+        "swift_bic": "BKCHGB2UXXX"
+    },
+    {
+        "id": 4798,
+        "uid": "82c7a27e-bf27-45eb-ad55-cb72d20bdee8",
+        "account_number": "1830810030",
+        "iban": "GB05EEJP27134893252372",
+        "bank_name": "ABN AMRO MEZZANINE (UK) LIMITED",
+        "routing_number": "063631678",
+        "swift_bic": "UBKLGB2LBAK"
+    },
+    {
+        "id": 6085,
+        "uid": "a5acaada-5388-486e-b270-a6c92e364942",
+        "account_number": "5704761854",
+        "iban": "GB93GKWN44161138128442",
+        "bank_name": "UBS CLEARING AND EXECUTION SERVICES LIMITED",
+        "routing_number": "715339626",
+        "swift_bic": "BARBGB2LHAR"
+    },
+    {
+        "id": 9105,
+        "uid": "1f00dd0a-687f-421c-8b5b-53dbc4cb7f76",
+        "account_number": "5358157665",
+        "iban": "GB16XDYE21234375099619",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND PLC (FORMER RBS NV)",
+        "routing_number": "626702847",
+        "swift_bic": "AIBKGB2XTSY"
+    },
+    {
+        "id": 9080,
+        "uid": "c33d9a63-7d0a-4c55-bae7-676d6fd3421b",
+        "account_number": "7256734958",
+        "iban": "GB30NBVM41400803199595",
+        "bank_name": "ABG SUNDAL COLLIER LIMITED",
+        "routing_number": "092481721",
+        "swift_bic": "BCYPGB2LHHB"
+    },
+    {
+        "id": 6349,
+        "uid": "bb4dbbdb-9d18-4913-9b83-197ed9bd85e4",
+        "account_number": "5955040648",
+        "iban": "GB36JTGP24098685422481",
+        "bank_name": "ABN AMRO FUND MANAGERS LIMITED",
+        "routing_number": "638402384",
+        "swift_bic": "BOFAGB22XXX"
+    },
+    {
+        "id": 7416,
+        "uid": "64b4595d-1d44-4699-9661-1ecb65c8d5b4",
+        "account_number": "3260086334",
+        "iban": "GB05VMNJ86396667082064",
+        "bank_name": "ABC INTERNATIONAL BANK PLC",
+        "routing_number": "695962906",
+        "swift_bic": "ASTPGB2LXXX"
+    },
+    {
+        "id": 6733,
+        "uid": "65f6f657-6ded-4d90-af35-b3d273b698c7",
+        "account_number": "9956803988",
+        "iban": "GB35ZXSS03408962401066",
+        "bank_name": "UBS CLEARING AND EXECUTION SERVICES LIMITED",
+        "routing_number": "210250394",
+        "swift_bic": "AAOGGB21"
+    },
+    {
+        "id": 4177,
+        "uid": "910f7b21-fefd-468b-8784-679339c80372",
+        "account_number": "6435403785",
+        "iban": "GB51XDAW64319322747172",
+        "bank_name": "ABN AMRO CORPORATE FINANCE LIMITED",
+        "routing_number": "805722813",
+        "swift_bic": "BCYPGB2LPGB"
+    },
+    {
+        "id": 5963,
+        "uid": "51e1a356-f2a4-47ed-a3de-aa962b056543",
+        "account_number": "6226897113",
+        "iban": "GB12DAQZ82669184921833",
+        "bank_name": "ABBEY LIFE",
+        "routing_number": "651684066",
+        "swift_bic": "BOFAGB3SSWI"
+    },
+    {
+        "id": 3399,
+        "uid": "5a11a9e0-e130-4c24-96d8-a6df79e3e908",
+        "account_number": "8392552439",
+        "iban": "GB05QCUW42454733204220",
+        "bank_name": "AAC CAPITAL PARTNERS LIMITED",
+        "routing_number": "047753718",
+        "swift_bic": "BOFAGB4TLTR"
+    },
+    {
+        "id": 8321,
+        "uid": "1243eef2-9318-486d-bff7-1b64d422f77e",
+        "account_number": "8805409682",
+        "iban": "GB96YTYK01545048494871",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND PLC (FORMER RBS NV)",
+        "routing_number": "016069705",
+        "swift_bic": "AAHOGB21"
+    },
+    {
+        "id": 4218,
+        "uid": "5d3a8114-f569-41fe-894b-1664d70ffaf8",
+        "account_number": "0371850670",
+        "iban": "GB95ILTC67735180522009",
+        "bank_name": "UBS CLEARING AND EXECUTION SERVICES LIMITED",
+        "routing_number": "065953477",
+        "swift_bic": "UBKLGB2LXXX"
+    },
+    {
+        "id": 9033,
+        "uid": "48af5907-2b51-4dbd-ad37-e276c89fa9c0",
+        "account_number": "7124055292",
+        "iban": "GB55LMAW32689877700937",
+        "bank_name": "ABN AMRO CORPORATE FINANCE LIMITED",
+        "routing_number": "114977045",
+        "swift_bic": "ABAZGB21"
+    },
+    {
+        "id": 330,
+        "uid": "2be193ab-a85b-47bc-a3ba-4e65fda0777a",
+        "account_number": "7852276614",
+        "iban": "GB77WMKN91631236494667",
+        "bank_name": "ABN AMRO HOARE GOVETT CORPORATE FINANCE LTD.",
+        "routing_number": "213714743",
+        "swift_bic": "BOFAGB4TIPA"
+    },
+    {
+        "id": 4921,
+        "uid": "b023ebc9-2424-49d3-b7a7-48801873a28c",
+        "account_number": "2311804801",
+        "iban": "GB22JLAN89982138565533",
+        "bank_name": "ABN AMRO CORPORATE FINANCE LIMITED",
+        "routing_number": "715458921",
+        "swift_bic": "BCYPGB2LMBB"
+    },
+    {
+        "id": 5140,
+        "uid": "0dcb9b42-364c-49b7-872d-a071e2d86b81",
+        "account_number": "2427787240",
+        "iban": "GB93WKSA34667805843114",
+        "bank_name": "ABBOTSTONE AGRICULTURAL PROPERTY UNIT TRUST",
+        "routing_number": "720509221",
+        "swift_bic": "ABFIGB21"
+    },
+    {
+        "id": 4611,
+        "uid": "00c026c9-68d1-4809-8910-78463f109e2f",
+        "account_number": "9891502916",
+        "iban": "GB38HDWU72503802017951",
+        "bank_name": "ABN AMRO MEZZANINE (UK) LIMITED",
+        "routing_number": "273556352",
+        "swift_bic": "AAHOGB21"
+    },
+    {
+        "id": 5321,
+        "uid": "f123c74d-a2b3-4132-a3df-4f15f304773b",
+        "account_number": "7411138455",
+        "iban": "GB56RQSF27265607173913",
+        "bank_name": "ABBOTSTONE AGRICULTURAL PROPERTY UNIT TRUST",
+        "routing_number": "117243763",
+        "swift_bic": "ALEIGB22TSY"
+    },
+    {
+        "id": 4032,
+        "uid": "63d218fe-73d6-40a4-9f9d-ce2991f2a279",
+        "account_number": "5287621657",
+        "iban": "GB50LSFX72091107774075",
+        "bank_name": "ABN AMRO QUOTED INVESTMENTS (UK) LIMITED",
+        "routing_number": "215841672",
+        "swift_bic": "AAHOGB21"
+    },
+    {
+        "id": 2828,
+        "uid": "79261e1c-4055-4ab9-ac6e-e7853c6a66a3",
+        "account_number": "9187316039",
+        "iban": "GB18BCRI09554470746024",
+        "bank_name": "ABN AMRO HOARE GOVETT SECURITIES",
+        "routing_number": "257074452",
+        "swift_bic": "AKBKGB22XXX"
+    },
+    {
+        "id": 7946,
+        "uid": "22069cf1-eef8-4d44-acf0-1cc0edc55bd4",
+        "account_number": "2453940709",
+        "iban": "GB59VRHA49033347751997",
+        "bank_name": "ABBEY LIFE",
+        "routing_number": "116651644",
+        "swift_bic": "AANLGB21"
+    },
+    {
+        "id": 7067,
+        "uid": "90d44abd-1c0b-451f-90a9-a7a5ca25e781",
+        "account_number": "0229136944",
+        "iban": "GB96QEZF90235222330866",
+        "bank_name": "SANTANDER UK PLC",
+        "routing_number": "028266318",
+        "swift_bic": "BCYPGB2LSSB"
+    },
+    {
+        "id": 3474,
+        "uid": "a8514e11-a019-4136-9583-c42218949e11",
+        "account_number": "4975917154",
+        "iban": "GB33CVQR31371746309304",
+        "bank_name": "PGMS (GLASGOW) LIMITED",
+        "routing_number": "802169136",
+        "swift_bic": "BARBGB2LTOO"
+    },
+    {
+        "id": 5078,
+        "uid": "398ad827-2d1f-4e5f-853f-978431182090",
+        "account_number": "7226089900",
+        "iban": "GB16ARTD32992243356532",
+        "bank_name": "ABBEY LIFE",
+        "routing_number": "698288784",
+        "swift_bic": "BOFAGB4TLTR"
+    },
+    {
+        "id": 6798,
+        "uid": "72d6a8e9-c655-4e97-bb2f-dee3467f1321",
+        "account_number": "0281529278",
+        "iban": "GB65MOEA30685747965809",
+        "bank_name": "ABN AMRO FUND MANAGERS LIMITED",
+        "routing_number": "707259426",
+        "swift_bic": "AANLGB21"
+    },
+    {
+        "id": 9782,
+        "uid": "58c48c8f-fad8-4500-abd0-d025131aa2e3",
+        "account_number": "9520725020",
+        "iban": "GB77OLWH29954165260999",
+        "bank_name": "ALKEN ASSET MANAGEMENT",
+        "routing_number": "638563809",
+        "swift_bic": "BSABGB2LXXX"
+    },
+    {
+        "id": 4526,
+        "uid": "59adcfd6-e1a6-4458-9616-11f724ca4962",
+        "account_number": "2308253732",
+        "iban": "GB38YYLV77139971684476",
+        "bank_name": "ABN AMRO QUOTED INVESTMENTS (UK) LIMITED",
+        "routing_number": "068627726",
+        "swift_bic": "AAFMGB21"
+    },
+    {
+        "id": 7762,
+        "uid": "cee4ba0e-c10e-4d1e-bbd8-11c07a06f0d8",
+        "account_number": "0054631774",
+        "iban": "GB82SCVW51304547878397",
+        "bank_name": "ALKEN ASSET MANAGEMENT",
+        "routing_number": "634104000",
+        "swift_bic": "BARBGB2LLEI"
+    },
+    {
+        "id": 7196,
+        "uid": "5ceddeef-6ceb-4238-af64-926db8d57b70",
+        "account_number": "9826516561",
+        "iban": "GB66XOWH78881338118088",
+        "bank_name": "SANTANDER UK PLC",
+        "routing_number": "695297189",
+        "swift_bic": "BARBGB2LTOO"
+    },
+    {
+        "id": 1773,
+        "uid": "0ebab3b8-7ff0-44f6-8759-c07573d11a47",
+        "account_number": "1353010964",
+        "iban": "GB75WPMO68306151097571",
+        "bank_name": "ALLIED BANK PHILIPPINES (UK) PLC",
+        "routing_number": "067973374",
+        "swift_bic": "BCYPGB2LSSB"
+    },
+    {
+        "id": 221,
+        "uid": "990e903d-4247-44ef-a81f-af47dd7ff0f6",
+        "account_number": "2875494961",
+        "iban": "GB43JUDT72377687315919",
+        "bank_name": "ABG SUNDAL COLLIER LIMITED",
+        "routing_number": "038639320",
+        "swift_bic": "ABAZGB21"
+    },
+    {
+        "id": 3344,
+        "uid": "bd97b525-d229-4076-b6a4-f5cdfecb978e",
+        "account_number": "4703613246",
+        "iban": "GB61ZPHQ54115308664333",
+        "bank_name": "UBS CLEARING AND EXECUTION SERVICES LIMITED",
+        "routing_number": "267846340",
+        "swift_bic": "AACNGB21"
+    },
+    {
+        "id": 7285,
+        "uid": "e4419be8-8723-444f-91d5-f492086af727",
+        "account_number": "7806122189",
+        "iban": "GB21NBTS60759275635611",
+        "bank_name": "ALKEN ASSET MANAGEMENT",
+        "routing_number": "110588726",
+        "swift_bic": "AAHOGB21"
+    },
+    {
+        "id": 5516,
+        "uid": "979f6793-da0d-49c1-8a79-8b846cd62226",
+        "account_number": "2613606649",
+        "iban": "GB75KZPY18620515327351",
+        "bank_name": "OTKRITIE SECURITIES LIMITED",
+        "routing_number": "320398968",
+        "swift_bic": "BRBAGB2LXXX"
+    },
+    {
+        "id": 5736,
+        "uid": "a70b6be1-ac61-46bf-aac6-5d4b6e74eda1",
+        "account_number": "3998070243",
+        "iban": "GB37LGOH99225853726533",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND PLC (FORMER RBS NV)",
+        "routing_number": "085869622",
+        "swift_bic": "BARBGB2LMAN"
+    },
+    {
+        "id": 6859,
+        "uid": "ab2ec2d6-6937-4c27-8e40-3e947e55e7ac",
+        "account_number": "4406694659",
+        "iban": "GB72BQCJ82279273651233",
+        "bank_name": "ABN AMRO HOARE GOVETT SECURITIES",
+        "routing_number": "635923743",
+        "swift_bic": "BOFAGB22OF2"
+    },
+    {
+        "id": 4746,
+        "uid": "4fa0683f-e32b-4fe6-b0fe-216e64bede3e",
+        "account_number": "4964201615",
+        "iban": "GB26YHJC13163737636383",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND PLC (FORMER RBS NV)",
+        "routing_number": "686143446",
+        "swift_bic": "BCYPGB2LPGB"
+    },
+    {
+        "id": 514,
+        "uid": "6b068f09-214c-49c4-ad6e-dc978f1c4678",
+        "account_number": "7211668455",
+        "iban": "GB73YVXF65169207302069",
+        "bank_name": "ABN AMRO HOARE GOVETT LIMITED",
+        "routing_number": "051845816",
+        "swift_bic": "ASTPGB2LXXX"
+    },
+    {
+        "id": 5480,
+        "uid": "3aaba423-43e7-4ddb-8ce0-428d67be3b78",
+        "account_number": "7626131351",
+        "iban": "GB30YNDI04517877163013",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND PLC (FORMER RBS NV)",
+        "routing_number": "122439180",
+        "swift_bic": "ASTPGB2LXXX"
+    },
+    {
+        "id": 4357,
+        "uid": "63fc0ec6-a64d-49b8-8f97-1ae91e3015a5",
+        "account_number": "6859180323",
+        "iban": "GB67OIPS25201353051163",
+        "bank_name": "ABN AMRO HOARE GOVETT SECURITIES",
+        "routing_number": "212128288",
+        "swift_bic": "ABBEGB21"
+    },
+    {
+        "id": 6290,
+        "uid": "f6e4f19e-0474-4a96-9173-fb8553ff2378",
+        "account_number": "7238942185",
+        "iban": "GB38IKAT11230991233481",
+        "bank_name": "AAC CAPITAL PARTNERS LIMITED",
+        "routing_number": "688251459",
+        "swift_bic": "ABECGB21"
+    },
+    {
+        "id": 1539,
+        "uid": "1c14a554-c848-4ac7-8d83-90abc3324a9c",
+        "account_number": "6212313477",
+        "iban": "GB30HRKK60708899132518",
+        "bank_name": "ABN AMRO HOARE GOVETT SECURITIES",
+        "routing_number": "210946284",
+        "swift_bic": "AAQIGB21"
+    },
+    {
+        "id": 2612,
+        "uid": "ec02f8d8-fea8-47a6-ad1d-f4d614f89fab",
+        "account_number": "6559921188",
+        "iban": "GB71WHHP16838604599058",
+        "bank_name": "SANTANDER UK PLC",
+        "routing_number": "623976524",
+        "swift_bic": "BRBAGB2LXXX"
+    },
+    {
+        "id": 4643,
+        "uid": "d928d0c0-2ae1-437b-aca4-4355e65cc0f4",
+        "account_number": "1362329890",
+        "iban": "GB39KJUN48001680653926",
+        "bank_name": "ABC INTERNATIONAL BANK PLC",
+        "routing_number": "232152331",
+        "swift_bic": "BCYPGB2LXXX"
+    },
+    {
+        "id": 5137,
+        "uid": "1542cd74-74c1-4b8e-9a4e-76accf488c73",
+        "account_number": "6508373559",
+        "iban": "GB66GFHJ08037137629221",
+        "bank_name": "ABN AMRO QUOTED INVESTMENTS (UK) LIMITED",
+        "routing_number": "613414724",
+        "swift_bic": "ASTPGB2LXXX"
+    },
+    {
+        "id": 6616,
+        "uid": "32d65235-0465-4918-aed5-10e3d29fdb56",
+        "account_number": "2996334399",
+        "iban": "GB75QOUD03685720908453",
+        "bank_name": "PGMS (GLASGOW) LIMITED",
+        "routing_number": "228588838",
+        "swift_bic": "BCYPGB2LPGB"
+    },
+    {
+        "id": 6098,
+        "uid": "00aaabff-3644-4329-a1a9-32938f24c7ea",
+        "account_number": "9837469698",
+        "iban": "GB86OBCL23245357723424",
+        "bank_name": "ALKEN ASSET MANAGEMENT",
+        "routing_number": "628075909",
+        "swift_bic": "ASTPGB2LXXX"
+    },
+    {
+        "id": 7440,
+        "uid": "06f19fb1-d13e-458a-b8c5-ef86e9059357",
+        "account_number": "5584259394",
+        "iban": "GB15KQCT24824514769003",
+        "bank_name": "ABBEY LIFE",
+        "routing_number": "706391181",
+        "swift_bic": "BARBGB2LHAR"
+    },
+    {
+        "id": 630,
+        "uid": "c9c35b2a-7725-4e4e-b9cf-fa8168c13d25",
+        "account_number": "5391876205",
+        "iban": "GB48ZSHD16416102170136",
+        "bank_name": "PGMS (GLASGOW) LIMITED",
+        "routing_number": "676905610",
+        "swift_bic": "ASTPGB2LXXX"
+    }
+]
