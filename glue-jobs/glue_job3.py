@@ -55,7 +55,7 @@ DRYRUN = bool(args["DRYRUN"].lower() == "true")
 # Query data from the specific partition of the processed table
 BASE_SQL_QUERY = f"""
 SELECT composite_pk, uid, bank_name, routing_number
-FROM {GLUE_TABLE}
+FROM {GLUE_DATABASE}.{GLUE_TABLE}
 WHERE extraction_datetime = '{TABLE_PARTITION}'
 LIMIT {LIMIT_ROWS}
 """

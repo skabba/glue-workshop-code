@@ -15,8 +15,7 @@ log_level = "INFO"
 logger.setLevel(log_level)
 
 # Set sensible formatting
-formatter = logging.Formatter(
-    "%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
 
 # Set stdout logger for glue
 stdout_handler = logging.StreamHandler(sys.stdout)
@@ -95,12 +94,8 @@ if SPARK:
 
 run_id = glue_client.start_job_run(
     JobName=NEXT_GLUE_JOB,
-    Arguments={
-        "--s3_data_object_key": s3_object_key,
-        "--DRYRUN": str(DRYRUN)
-    },
+    Arguments={"--s3_data_object_key": s3_object_key, "--DRYRUN": str(DRYRUN)},
 )
-status = glue_client.get_job_run(JobName=NEXT_GLUE_JOB,
-                                 RunId=run_id["JobRunId"])
+status = glue_client.get_job_run(JobName=NEXT_GLUE_JOB, RunId=run_id["JobRunId"])
 logger.info("Job Status : ", status["JobRun"]["JobRunState"])
 # BLOCK 5: Trigger the next job =======================================
